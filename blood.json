@@ -1,11 +1,11 @@
 {
-  "time": "2015-10-15T08:32:08+08:00",
+  "time": "2015-10-15T09:32:12+08:00",
   "台北捐血中心": {
     "name": "台北捐血中心",
     "StorageA": "medium",
     "StorageB": "full",
     "StorageO": "medium",
-    "StorageAB": "medium"
+    "StorageAB": "empty"
   },
   "新竹捐血中心": {
     "name": "新竹捐血中心",
