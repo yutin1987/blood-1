@@ -1,0 +1,3095 @@
+{
+    "lastmodify": "2015/07/24 09:00",
+    "license": "CC0",
+    "results": [
+        {
+            "city": "高雄市",
+            "mode": "固定",
+            "name": "高雄捐血中心",
+            "gps": "22.728882,120.320602",
+            "location": "楠梓區高楠公路1837號",
+            "tel": "07-3660999,07-3641832",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.728882,
+            "gps_long": 120.320602,
+            "service": {
+                "e": {
+                    "times": "0800-1700",
+                    "start": 480,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "固定",
+            "name": "前金捐血室",
+            "gps": "22.6229,120.2981",
+            "location": "前金區中華三路7號6樓",
+            "tel": "07-2827465",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.6229,
+            "gps_long": 120.2981,
+            "service": {
+                "e": {
+                    "times": "0900-1730",
+                    "start": 540,
+                    "end": 1050
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "固定",
+            "name": "岡山捐血室",
+            "gps": "22.7981,120.2932",
+            "location": "岡山區壽華路58號",
+            "tel": "07-6216524",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.7981,
+            "gps_long": 120.2932,
+            "service": {
+                "e": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "固定",
+            "name": "左營捐血室",
+            "gps": "22.6802,120.3088",
+            "location": "左營區博愛三路635號",
+            "tel": "07-3487155",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.6802,
+            "gps_long": 120.3088,
+            "service": {
+                "e": {
+                    "times": "0930-1800",
+                    "start": 570,
+                    "end": 1080
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "固定",
+            "name": "捷運前鎮捐血室",
+            "gps": "22.5844,120.3249",
+            "location": "前鎮區平等里6鄰翠亨北路225號地下1層",
+            "tel": "07-8137149",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.5844,
+            "gps_long": 120.3249,
+            "service": {
+                "e": {
+                    "times": "0930-1730",
+                    "start": 570,
+                    "end": 1050
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "固定",
+            "name": "捷運三民捐血室",
+            "gps": "22.647088,120.303312",
+            "location": "三民區博愛一路220號地下一層",
+            "tel": "07-3137631",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.647088,
+            "gps_long": 120.303312,
+            "service": {
+                "e": {
+                    "times": "0930-1800",
+                    "start": 570,
+                    "end": 1080
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "固定",
+            "name": "捷運鳳山捐血室",
+            "gps": "22.6257,120.3601",
+            "location": "鳳山區光遠路226號",
+            "tel": "07-7459181",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.6257,
+            "gps_long": 120.3601,
+            "service": {
+                "e": {
+                    "times": "0930-1730",
+                    "start": 570,
+                    "end": 1050
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "固定",
+            "name": "鳳山金聲號捐血車",
+            "gps": "22.6235,120.3549",
+            "location": "鳳山區鳳凌廣場立志街上",
+            "tel": "07-7473421",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.6235,
+            "gps_long": 120.3549,
+            "service": {
+                "2n": {
+                    "times": "0900-1800",
+                    "start": 540,
+                    "end": 1080
+                },
+                "4n": {
+                    "times": "0900-1800",
+                    "start": 540,
+                    "end": 1080
+                },
+                "5n": {
+                    "times": "0900-1800",
+                    "start": 540,
+                    "end": 1080
+                },
+                "6n": {
+                    "times": "0900-1800",
+                    "start": 540,
+                    "end": 1080
+                },
+                "0n": {
+                    "times": "0900-1800",
+                    "start": 540,
+                    "end": 1080
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "固定",
+            "name": "文化號捐血車",
+            "gps": "22.6258,120.3194",
+            "location": "和平一路高師大斜對面",
+            "tel": "07-2234708",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.6258,
+            "gps_long": 120.3194,
+            "service": {
+                "3n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "5n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "6n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "0n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "巡迴",
+            "name": "小港巡迴捐血車",
+            "gps": "22.5651,120.3379",
+            "location": "小港區小港路158號(小港區公所前)",
+            "tel": "",
+            "holiday": "1",
+            "sun": "1",
+            "sat": "1",
+            "apheresis": null,
+            "gps_lat": 22.5651,
+            "gps_long": 120.3379,
+            "service": {
+                "9d": {
+                    "times": "0930-1730",
+                    "start": 570,
+                    "end": 1050
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "巡迴",
+            "name": "旗津巡迴捐血車",
+            "gps": "22.6109,120.2679",
+            "location": "旗津區旗津三路1100號(旗津海水浴場前)",
+            "tel": "",
+            "holiday": "1",
+            "sun": "1",
+            "sat": "1",
+            "apheresis": null,
+            "gps_lat": 22.6109,
+            "gps_long": 120.2679,
+            "service": {
+                "1m10d": {
+                    "times": "0930-1700",
+                    "start": 570,
+                    "end": 1020
+                },
+                "3m10d": {
+                    "times": "0930-1700",
+                    "start": 570,
+                    "end": 1020
+                },
+                "5m10d": {
+                    "times": "0930-1700",
+                    "start": 570,
+                    "end": 1020
+                },
+                "7m10d": {
+                    "times": "0930-1700",
+                    "start": 570,
+                    "end": 1020
+                },
+                "9m10d": {
+                    "times": "0930-1700",
+                    "start": 570,
+                    "end": 1020
+                },
+                "11m10d": {
+                    "times": "0930-1700",
+                    "start": 570,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "巡迴",
+            "name": "阿蓮巡迴捐血車",
+            "gps": "22.8755,120.3467",
+            "location": "阿蓮區峰山村峰南路66-16號(紫微殿)",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.8755,
+            "gps_long": 120.3467,
+            "service": {
+                "4d": {
+                    "times": "0930-1700",
+                    "start": 570,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "巡迴",
+            "name": "大社巡迴捐血車",
+            "gps": "22.73,120.3466",
+            "location": "大社區自強街1號(大社區公所)",
+            "tel": "",
+            "holiday": "1",
+            "sun": "1",
+            "sat": "1",
+            "apheresis": null,
+            "gps_lat": 22.73,
+            "gps_long": 120.3466,
+            "service": {
+                "20d": {
+                    "times": "0930-1700",
+                    "start": 570,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "巡迴",
+            "name": "路竹巡迴捐血車",
+            "gps": "22.8547,120.2595",
+            "location": "路竹區公所",
+            "tel": "",
+            "holiday": "1",
+            "sun": "1",
+            "sat": "1",
+            "apheresis": null,
+            "gps_lat": 22.8547,
+            "gps_long": 120.2595,
+            "service": {
+                "6d": {
+                    "times": "0930-1730",
+                    "start": 570,
+                    "end": 1050
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "巡迴",
+            "name": "湖內巡迴捐血車",
+            "gps": "22.9074,120.2141",
+            "location": "湖內區信義路255號(湖內慈濟宮前)",
+            "tel": "",
+            "holiday": "1",
+            "sun": "1",
+            "sat": "1",
+            "apheresis": null,
+            "gps_lat": 22.9074,
+            "gps_long": 120.2141,
+            "service": {
+                "1m7d": {
+                    "times": "1000-1730",
+                    "start": 600,
+                    "end": 1050
+                },
+                "3m7d": {
+                    "times": "1000-1730",
+                    "start": 600,
+                    "end": 1050
+                },
+                "5m7d": {
+                    "times": "1000-1730",
+                    "start": 600,
+                    "end": 1050
+                },
+                "7m7d": {
+                    "times": "1000-1730",
+                    "start": 600,
+                    "end": 1050
+                },
+                "9m7d": {
+                    "times": "1000-1730",
+                    "start": 600,
+                    "end": 1050
+                },
+                "11m7d": {
+                    "times": "1000-1730",
+                    "start": 600,
+                    "end": 1050
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "巡迴",
+            "name": "林園巡迴捐血車",
+            "gps": "22.5056,120.3852",
+            "location": "林園區王公路471號(林園王公廟前)",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.5056,
+            "gps_long": 120.3852,
+            "service": {
+                "11d": {
+                    "times": "1000-1730",
+                    "start": 600,
+                    "end": 1050
+                },
+                " 26d": {
+                    "times": "1000-1730",
+                    "start": 600,
+                    "end": 1050
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "巡迴",
+            "name": "大寮巡迴捐血車",
+            "gps": "22.614,,120.3895",
+            "location": "大寮區鳳林四路14-2號(愛國超市鳳林店前)",
+            "tel": "",
+            "holiday": "1",
+            "sun": "1",
+            "sat": "1",
+            "apheresis": null,
+            "gps_lat": 22.614,
+            "gps_long": null,
+            "service": {
+                "27d": {
+                    "times": "1000-1730",
+                    "start": 600,
+                    "end": 1050
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "巡迴",
+            "name": "美濃巡迴捐血車",
+            "gps": "22.8947,120.5418",
+            "location": "美濃區合和里美中路260號(美濃區公所)",
+            "tel": "",
+            "holiday": "1",
+            "sun": "1",
+            "sat": "1",
+            "apheresis": null,
+            "gps_lat": 22.8947,
+            "gps_long": 120.5418,
+            "service": {
+                "14d": {
+                    "times": "0930-1700",
+                    "start": 570,
+                    "end": 1020
+                },
+                "29d": {
+                    "times": "0930-1700",
+                    "start": 570,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "巡迴",
+            "name": "旗山巡迴捐血車",
+            "gps": "22.8882,120.4806",
+            "location": "旗山中山公園(旗山國小對面)",
+            "tel": "",
+            "holiday": "1",
+            "sun": "1",
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.8882,
+            "gps_long": 120.4806,
+            "service": {
+                "14d": {
+                    "times": "0930-1730",
+                    "start": 570,
+                    "end": 1050
+                },
+                "29d": {
+                    "times": "0930-1730",
+                    "start": 570,
+                    "end": 1050
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "巡迴",
+            "name": "仁武巡迴捐血車",
+            "gps": "22.7013,120.3476",
+            "location": "仁武區中正路80號(仁武區公所前)",
+            "tel": "",
+            "holiday": "1",
+            "sun": "1",
+            "sat": "1",
+            "apheresis": null,
+            "gps_lat": 22.7013,
+            "gps_long": 120.3476,
+            "service": {
+                "20d": {
+                    "times": "0930-1700",
+                    "start": 570,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "巡迴",
+            "name": "六龜巡迴捐血車",
+            "gps": "22.9934,120.6356",
+            "location": "六龜區義寶里光復路212號(六龜中學前)",
+            "tel": "",
+            "holiday": "1",
+            "sun": "1",
+            "sat": "1",
+            "apheresis": null,
+            "gps_lat": 22.9934,
+            "gps_long": 120.6356,
+            "service": {
+                "1m27d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                },
+                "3m27d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                },
+                "5m27d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                },
+                "7m27d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                },
+                "9m27d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                },
+                "11m27d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "高雄市",
+            "mode": "巡迴",
+            "name": "甲仙巡迴捐血車",
+            "gps": "23.0814,120.589",
+            "location": "甲仙區文化路45號(甲仙國小前)",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.0814,
+            "gps_long": 120.589,
+            "service": {
+                "2m27d": {
+                    "times": "1000-1600",
+                    "start": 600,
+                    "end": 960
+                },
+                "8m27d": {
+                    "times": "1000-1600",
+                    "start": 600,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "固定",
+            "name": "臺北捐血中心",
+            "gps": "25.127348,121.471816",
+            "location": "北投區立德路123號(和信醫院旁)",
+            "tel": "02-28971600",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 25.127348,
+            "gps_long": 121.471816,
+            "service": {
+                "e": {
+                    "times": "0800-1700",
+                    "start": 480,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "巡迴",
+            "name": "國父紀念館巡迴捐血車",
+            "gps": "25.0394,121.5585",
+            "location": "光復南路國父紀念館停車場旁",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.0394,
+            "gps_long": 121.5585,
+            "service": {
+                "2w0n": {
+                    "times": "1000-1730",
+                    "start": 600,
+                    "end": 1050
+                },
+                "4w0n": {
+                    "times": "1000-1730",
+                    "start": 600,
+                    "end": 1050
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "巡迴",
+            "name": "內湖區巡迴捐血車",
+            "gps": "25.082509,121.592738",
+            "location": "內湖區成功路四段66號(梘頭公園前)",
+            "tel": "02-28971600",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.082509,
+            "gps_long": 121.592738,
+            "service": {
+                "24d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "巡迴",
+            "name": "南港區巡迴捐血車",
+            "gps": "25.0544,121.605729",
+            "location": "南港區南港路二段18號",
+            "tel": "02-28971600",
+            "holiday": "1",
+            "sun": "1",
+            "sat": "1",
+            "apheresis": null,
+            "gps_lat": 25.0544,
+            "gps_long": 121.605729,
+            "service": {
+                "7d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "巡迴",
+            "name": "士林區巡迴捐血車",
+            "gps": "25.0934,121.5249",
+            "location": "士林區大東路士林國小前",
+            "tel": "02-28971600",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.0934,
+            "gps_long": 121.5249,
+            "service": {
+                "17d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "巡迴",
+            "name": "北投磺港路巡迴捐血車",
+            "gps": "25.1335,121.5019",
+            "location": "北投區磺港路停車場旁",
+            "tel": "02-28971600",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.1335,
+            "gps_long": 121.5019,
+            "service": {
+                "5d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                },
+                "20d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "巡迴",
+            "name": "北投市立圖書館巡迴捐血車",
+            "gps": "25.1181,121.5172",
+            "location": "北投區石牌路二段115號(永明民眾閱覽室前)",
+            "tel": "02-28971600",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.1181,
+            "gps_long": 121.5172,
+            "service": {
+                "22d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "固定",
+            "name": "南海捐血室",
+            "gps": "25.032808,121.517239",
+            "location": "南海路1號3樓(南門市場對面)",
+            "tel": "02-23511601;02-23948644",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 25.032808,
+            "gps_long": 121.517239,
+            "service": {
+                "e": {
+                    "times": "0800-1730",
+                    "start": 480,
+                    "end": 1050
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "固定",
+            "name": "市府捐血室",
+            "gps": "25.0375,121.5637",
+            "location": "市府路1號市政府西大門內左側",
+            "tel": "02-27208889#3383;02-27200872",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 25.0375,
+            "gps_long": 121.5637,
+            "service": {
+                "1n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "2n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "3n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "4n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "5n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "6n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "固定",
+            "name": "長春捐血室",
+            "gps": "25.0552306,121.5424986",
+            "location": "復興北路69號5樓",
+            "tel": "02-27314801",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 25.0552306,
+            "gps_long": 121.5424986,
+            "service": {
+                "1n": {
+                    "times": "0900-1730",
+                    "start": 540,
+                    "end": 1050
+                },
+                "2n": {
+                    "times": "0900-1730",
+                    "start": 540,
+                    "end": 1050
+                },
+                "3n": {
+                    "times": "0900-1730",
+                    "start": 540,
+                    "end": 1050
+                },
+                "4n": {
+                    "times": "0900-1730",
+                    "start": 540,
+                    "end": 1050
+                },
+                "5n": {
+                    "times": "0900-1730",
+                    "start": 540,
+                    "end": 1050
+                },
+                "6n": {
+                    "times": "0900-1730",
+                    "start": 540,
+                    "end": 1050
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "固定",
+            "name": "捷運捐血室",
+            "gps": "25.0462,121.5175",
+            "location": "台北車站B1(M7出口誠品書店旁)",
+            "tel": "02-23706880",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 25.0462,
+            "gps_long": 121.5175,
+            "service": {
+                "1n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "2n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "4n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "5n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "0n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "固定",
+            "name": "台大號捐血車",
+            "gps": "25.0198,121.534",
+            "location": "新生南路三段台灣大學側門口",
+            "tel": "02-23644952",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.0198,
+            "gps_long": 121.534,
+            "service": {
+                "e": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "固定",
+            "name": "公園號捐血車",
+            "gps": "25.0433,121.5165",
+            "location": "公園路+襄陽路口",
+            "tel": "02-23811268",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.0433,
+            "gps_long": 121.5165,
+            "service": {
+                "1n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "3n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "4n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "5n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "6n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "0n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "固定",
+            "name": "峨嵋號捐血車",
+            "gps": "25.0441,121.5052",
+            "location": "萬華區峨嵋街立體停車場旁(昆明街口)",
+            "tel": "02-23751189",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.0441,
+            "gps_long": 121.5052,
+            "service": {
+                "e": {
+                    "times": "1300-2100",
+                    "start": 780,
+                    "end": 1260
+                }
+            }
+        },
+        {
+            "city": "臺北市",
+            "mode": "固定",
+            "name": "忠孝號捐血車",
+            "gps": "25.0425,121.546",
+            "location": "大安路一段瑠公公園旁(東區地下街14號出口)",
+            "tel": "02-27512351",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.0425,
+            "gps_long": 121.546,
+            "service": {
+                "2n": {
+                    "times": "1100-1900",
+                    "start": 660,
+                    "end": 1140
+                },
+                "3n": {
+                    "times": "1100-1900",
+                    "start": 660,
+                    "end": 1140
+                },
+                "4n": {
+                    "times": "1100-1900",
+                    "start": 660,
+                    "end": 1140
+                },
+                "5n": {
+                    "times": "1100-1900",
+                    "start": 660,
+                    "end": 1140
+                },
+                "6n": {
+                    "times": "1100-1900",
+                    "start": 660,
+                    "end": 1140
+                },
+                "0n": {
+                    "times": "1100-1900",
+                    "start": 660,
+                    "end": 1140
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "固定",
+            "name": "台南捐血中心",
+            "gps": "22.984274,120.200129",
+            "location": "中西區永福路一段85號",
+            "tel": "06-2131212",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 22.984274,
+            "gps_long": 120.200129,
+            "service": {
+                "e": {
+                    "times": "0800-1830",
+                    "start": 480,
+                    "end": 1110
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "特力屋捐血點",
+            "gps": "23.010875,120.194502",
+            "location": "北區文賢路720號",
+            "tel": "06-3580888",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.010875,
+            "gps_long": 120.194502,
+            "service": {
+                "1n": {
+                    "times": "1330-1830",
+                    "start": 810,
+                    "end": 1110
+                },
+                "2n": {
+                    "times": "1330-1830",
+                    "start": 810,
+                    "end": 1110
+                },
+                "3n": {
+                    "times": "1330-1830",
+                    "start": 810,
+                    "end": 1110
+                },
+                "4n": {
+                    "times": "1330-1830",
+                    "start": 810,
+                    "end": 1110
+                },
+                "5n": {
+                    "times": "1330-1830",
+                    "start": 810,
+                    "end": 1110
+                },
+                "6n": {
+                    "times": "1030-1830",
+                    "start": 630,
+                    "end": 1110
+                },
+                "0n": {
+                    "times": "1030-1830",
+                    "start": 630,
+                    "end": 1110
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "台南附中",
+            "gps": "23.022524,120.253351",
+            "location": "永康市中山南路948號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.022524,
+            "gps_long": 120.253351,
+            "service": {
+                "21d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "白河區公所",
+            "gps": "23.351289,120.415752",
+            "location": "白河區永安里三民路381號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.351289,
+            "gps_long": 120.415752,
+            "service": {
+                "27d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "新市農會",
+            "gps": "23.079285,120.295518",
+            "location": "新市區復興路1之1號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.079285,
+            "gps_long": 120.295518,
+            "service": {
+                "23d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "慈濟宮",
+            "gps": "23.233695,120.180497",
+            "location": "學甲區濟生路170號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.233695,
+            "gps_long": 120.180497,
+            "service": {
+                "20d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "下營國小",
+            "gps": "23.2337,120.2611",
+            "location": "台南市下營區中山路一段",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.2337,
+            "gps_long": 120.2611,
+            "service": {
+                "19d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "關廟國中",
+            "gps": "22.960349,120.325293",
+            "location": "關廟區中山路2段172號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.960349,
+            "gps_long": 120.325293,
+            "service": {
+                "17d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "新化區公所",
+            "gps": "23.038541,120.310896",
+            "location": "新化區中山路130號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.038541,
+            "gps_long": 120.310896,
+            "service": {
+                "15d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "玉井區公所",
+            "gps": "23.166005,120.489384",
+            "location": "玉井區中正路27號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.166005,
+            "gps_long": 120.489384,
+            "service": {
+                "2m13d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "4m13d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "6m13d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "8m13d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "10m13d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "12m13d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "楠西衛生所",
+            "gps": "23.174428,120.486413",
+            "location": "楠西區楠西里中正路226號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.174428,
+            "gps_long": 120.486413,
+            "service": {
+                "1m13d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "3m13d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "5m13d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "7m13d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "9m13d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "11m13d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "六甲國小",
+            "gps": "23.225774,120.35108",
+            "location": "六甲區中正路319號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.225774,
+            "gps_long": 120.35108,
+            "service": {
+                "1m11d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "3m11d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "5m11d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "7m11d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "9m11d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "11m11d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "將軍農會",
+            "gps": "23.1994,120.1584",
+            "location": "將軍區189號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.1994,
+            "gps_long": 120.1584,
+            "service": {
+                "2m10d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "5m10d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "8m10d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "11m10d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "安定區公所",
+            "gps": "23.1216,120.2371",
+            "location": "安定區南安里3鄰31號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.1216,
+            "gps_long": 120.2371,
+            "service": {
+                "1m9d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "4m9d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "7m9d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "10m9d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "善化區公所",
+            "gps": "23.132392,120.296741",
+            "location": "善化區建國路190號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.132392,
+            "gps_long": 120.296741,
+            "service": {
+                "8d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "18d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "28d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "鹽水武廟",
+            "gps": "23.323839,120.265751",
+            "location": "鹽水區武廟路87號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.323839,
+            "gps_long": 120.265751,
+            "service": {
+                "3m7d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "6m7d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "9m7d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "12m7d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "黃東公園飯店對面停車場",
+            "gps": "23.164177,120.177077",
+            "location": "佳里區中山路401號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.164177,
+            "gps_long": 120.177077,
+            "service": {
+                "6d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "16d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "26d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "歸仁區公所",
+            "gps": "22.9672,120.2939",
+            "location": "臺南市歸仁區中山路二段2號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.9672,
+            "gps_long": 120.2939,
+            "service": {
+                "4d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "14d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "24d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "固定",
+            "name": "臺南捐血中心",
+            "gps": "22.983776,120.199975",
+            "location": "臺南市中西區永福路一段85號",
+            "tel": "06-2131212",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.983776,
+            "gps_long": 120.199975,
+            "service": {
+                "e": {
+                    "times": "0800-1830",
+                    "start": 480,
+                    "end": 1110
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "巡迴",
+            "name": "麻豆警分局",
+            "gps": "23.182816,120.247791",
+            "location": "臺南市麻豆區興國路6號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.182816,
+            "gps_long": 120.247791,
+            "service": {
+                "2d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "12d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                },
+                "22d": {
+                    "times": "1030-1630",
+                    "start": 630,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "固定",
+            "name": "成大捐血點",
+            "gps": "22.9962,120.2181",
+            "location": "臺南市東區勝利路上與大學路交叉口",
+            "tel": "06-2082670",
+            "holiday": "1",
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 22.9962,
+            "gps_long": 120.2181,
+            "service": {
+                "e": {
+                    "times": "1100-1800",
+                    "start": 660,
+                    "end": 1080
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "固定",
+            "name": "中山捐血點",
+            "gps": "23.0045,120.2136",
+            "location": "北區公園路上",
+            "tel": "06-2295706",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.0045,
+            "gps_long": 120.2136,
+            "service": {
+                "e": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "固定",
+            "name": "永康捐血室",
+            "gps": "22.997296,120.24022",
+            "location": "永康區復興路427號8樓",
+            "tel": "06-3121255",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 22.997296,
+            "gps_long": 120.24022,
+            "service": {
+                "e": {
+                    "times": "0800-1700",
+                    "start": 480,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "臺南市",
+            "mode": "固定",
+            "name": "新營捐血室",
+            "gps": "23.316133,120.315287",
+            "location": "新營區中正路23之1號",
+            "tel": "06-6328473",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 23.316133,
+            "gps_long": 120.315287,
+            "service": {
+                "e": {
+                    "times": "0800-1700",
+                    "start": 480,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "固定",
+            "name": "臺中捐血中心",
+            "gps": "24.185164,120.612749",
+            "location": "西屯區台灣大道4段1176號",
+            "tel": "04-24612345",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 24.185164,
+            "gps_long": 120.612749,
+            "service": {
+                "e": {
+                    "times": "0800-1800",
+                    "start": 480,
+                    "end": 1080
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "固定",
+            "name": "大里捐血室",
+            "gps": "24.109902,120.691029",
+            "location": "大里區東榮路一段128號",
+            "tel": "04-24830365",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 24.109902,
+            "gps_long": 120.691029,
+            "service": {
+                "e": {
+                    "times": "0930-1800",
+                    "start": 570,
+                    "end": 1080
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "中山醫學院大慶院區",
+            "gps": "24.121804,120.651697",
+            "location": "南區建國北路一段110號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.121804,
+            "gps_long": 120.651697,
+            "service": {
+                "4w2n": {
+                    "times": "1000-1700",
+                    "start": 600,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "固定",
+            "name": "中港捐血室",
+            "gps": "24.184606,120.612598",
+            "location": "西屯區台灣大道4段1176號",
+            "tel": "04-24612345",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 24.184606,
+            "gps_long": 120.612598,
+            "service": {
+                "e": {
+                    "times": "0800-1800",
+                    "start": 480,
+                    "end": 1080
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "潭子巡迴捐血車",
+            "gps": "24.2316,120.7086",
+            "location": "潭子區中山路栗林村中油加盟加油站前",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.2316,
+            "gps_long": 120.7086,
+            "service": {
+                "1m3w5n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "4m3w5n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "7m3w5n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "10m3w5n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "大潤發忠明店",
+            "gps": "24.162621,120.672194",
+            "location": "北區忠明路499號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.162621,
+            "gps_long": 120.672194,
+            "service": {
+                "4w3n": {
+                    "times": "1000-1700",
+                    "start": 600,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "大甲鎮瀾宮後方停三停車場",
+            "gps": "24.344727,120.623601",
+            "location": "大甲區鎮瀾街119號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.344727,
+            "gps_long": 120.623601,
+            "service": {
+                "2d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "12d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "22d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "大甲幼獅工業區服務中心",
+            "gps": "24.406115,120.650902",
+            "location": "大甲區幼獅路35號",
+            "tel": "",
+            "holiday": "1",
+            "sun": "1",
+            "sat": "1",
+            "apheresis": null,
+            "gps_lat": 24.406115,
+            "gps_long": 120.650902,
+            "service": {
+                "3m1d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "6m1d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "8m1d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "12m1d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "梧棲區公所",
+            "gps": "24.254906,120.5317",
+            "location": "梧棲區中和街66號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.254906,
+            "gps_long": 120.5317,
+            "service": {
+                "1m2d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "3m2d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "5m2d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "7m2d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "9m2d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "11m2d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "梧棲農會文化大樓",
+            "gps": "24.254383,120.530042",
+            "location": "梧棲區文化路2段87號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.254383,
+            "gps_long": 120.530042,
+            "service": {
+                "2m2d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "4m2d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "6m2d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "8m2d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "10m2d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "12m2d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "東勢國小",
+            "gps": "24.258513,120.830767",
+            "location": "東勢區第五橫街1號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.258513,
+            "gps_long": 120.830767,
+            "service": {
+                "3d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "13d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "豐原媽祖廟",
+            "gps": "24.251432,120.719024",
+            "location": "豐原區中正路179號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.251432,
+            "gps_long": 120.719024,
+            "service": {
+                "10d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "30d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "豐原區公所藝文館",
+            "gps": "24.241184,120.717191",
+            "location": "豐原區育仁路81號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.241184,
+            "gps_long": 120.717191,
+            "service": {
+                "2w0n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "4w0n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "神岡國中",
+            "gps": "24.2476,120.6809",
+            "location": "神岡區中山路627號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.2476,
+            "gps_long": 120.6809,
+            "service": {
+                "2m3w6n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "4m3w6n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "6m3w6n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "8m3w6n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "10m3w6n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "12m3w6n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "清水衛生所",
+            "gps": "24.266536,120.574638",
+            "location": "清水區中山路92號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.266536,
+            "gps_long": 120.574638,
+            "service": {
+                "8d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "18d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "28d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "沙鹿家樂福量販店",
+            "gps": "24.242418,120.565204",
+            "location": "沙鹿區光華路336號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.242418,
+            "gps_long": 120.565204,
+            "service": {
+                "9d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "19d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "29d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "后里鎮安宮",
+            "gps": "24.305332,120.710748",
+            "location": "后里區墩西村三光路42號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.305332,
+            "gps_long": 120.710748,
+            "service": {
+                "11d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "霧峰農會",
+            "gps": "24.064687,120.69784",
+            "location": "霧峰區四德路10號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.064687,
+            "gps_long": 120.69784,
+            "service": {
+                "11d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "龍井區公所",
+            "gps": "24.192682,120.545998",
+            "location": "龍井區沙田路四段247號",
+            "tel": "",
+            "holiday": "1",
+            "sun": "1",
+            "sat": "1",
+            "apheresis": null,
+            "gps_lat": 24.192682,
+            "gps_long": 120.545998,
+            "service": {
+                "16d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "大肚區公所",
+            "gps": "24.150649,120.545464",
+            "location": "大肚區沙田路2段646號(後面廣場)",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.150649,
+            "gps_long": 120.545464,
+            "service": {
+                "21d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "烏日楓康超市",
+            "gps": "24.106036,120.626195",
+            "location": "烏日區中山路2段118號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.106036,
+            "gps_long": 120.626195,
+            "service": {
+                "23d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "大雅楓康超市",
+            "gps": "24.2244,120.6474",
+            "location": "大雅區中清路2段168號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.2244,
+            "gps_long": 120.6474,
+            "service": {
+                "4d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "14d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "24d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "太平區楓康超市旁夜市空地",
+            "gps": "24.133829,120.719723",
+            "location": "太平區東平路656號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.133829,
+            "gps_long": 120.719723,
+            "service": {
+                "20d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "大肚區公所",
+            "gps": "24.150649,120.545464",
+            "location": "大肚區沙田路2段646號(後方廣場)",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.150649,
+            "gps_long": 120.545464,
+            "service": {
+                "3m1w7d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "6m1w7d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "9m1w7d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                },
+                "12m1w7d": {
+                    "times": "0900-1630",
+                    "start": 540,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "國軍台中總醫院",
+            "gps": "24.150131,120.72848",
+            "location": "太平區中山路二段348號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.150131,
+            "gps_long": 120.72848,
+            "service": {
+                "4w1n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "潭子區公所",
+            "gps": "24.209873,120.705267",
+            "location": "潭子區中山路二段239號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.209873,
+            "gps_long": 120.705267,
+            "service": {
+                "3m3w7d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "6m3w7d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "9m3w7d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "12m3w7d": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "固定",
+            "name": "中正公園捐血室",
+            "gps": "24.1567,120.6813",
+            "location": "北區學士路91號正對面(中醫大附醫復健大樓正對面)",
+            "tel": "(04)22364473",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.1567,
+            "gps_long": 120.6813,
+            "service": {
+                "e": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "潭子區勝利路運動公園廣場內",
+            "gps": "24.2107,120.7006",
+            "location": "潭子區勝利路183號對面",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.2107,
+            "gps_long": 120.7006,
+            "service": {
+                "2m1w0n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "5m1w0n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "8m1w0n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "11m1w0n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "潭子區郵局對面停車場",
+            "gps": "24.211783,120.70384",
+            "location": "潭子區潭興路3段42號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.211783,
+            "gps_long": 120.70384,
+            "service": {
+                "1m3w1n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "4m3w1n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "7m3w1n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "10m3w1n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "大里區成功路楓康超市前",
+            "gps": "24.093452,120.703313",
+            "location": "大里區成功路171號",
+            "tel": "",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.093452,
+            "gps_long": 120.703313,
+            "service": {
+                "4m1w0n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "8m1w0n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                },
+                "12m1w0n": {
+                    "times": "0900-1600",
+                    "start": 540,
+                    "end": 960
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "固定",
+            "name": "新光三越捐血車",
+            "gps": "24.1641,120.6421",
+            "location": "西屯區惠來路二段市政北七路口(惠安停車場內)",
+            "tel": "04-22515683",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.1641,
+            "gps_long": 120.6421,
+            "service": {
+                "e": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "固定",
+            "name": "三民捐血室",
+            "gps": "24.138164,120.675292",
+            "location": "西區三民路1段174號7樓",
+            "tel": "04-22270393",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 24.138164,
+            "gps_long": 120.675292,
+            "service": {
+                "e": {
+                    "times": "0800-1700",
+                    "start": 480,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "臺中市",
+            "mode": "巡迴",
+            "name": "臺中公園捐血車",
+            "gps": "24.1464,120.6854",
+            "location": "中興堂對面停車場(精武路291-3號)",
+            "tel": "04-22231085",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.1464,
+            "gps_long": 120.6854,
+            "service": {
+                "2n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "3n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "4n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "5n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "6n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "0n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "巡迴",
+            "name": "三峽區巡迴捐血車",
+            "gps": "24.9324,121.3744",
+            "location": "三峽區中華路、愛國路交叉口",
+            "tel": "02-28971600",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.9324,
+            "gps_long": 121.3744,
+            "service": {
+                "8d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "巡迴",
+            "name": "鶯歌區巡迴捐血車",
+            "gps": "24.9576,121.3496",
+            "location": "鶯歌區中山路150號林長壽圖書館前",
+            "tel": "02-28971600",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.9576,
+            "gps_long": 121.3496,
+            "service": {
+                "9d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "巡迴",
+            "name": "永和區巡迴捐血車",
+            "gps": "25.0085,121.5204",
+            "location": "永和區竹林路、國光路交叉口(國父紀念館側門)",
+            "tel": "02-28971600",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.0085,
+            "gps_long": 121.5204,
+            "service": {
+                "14d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "巡迴",
+            "name": "樹林區巡迴捐血車",
+            "gps": "24.993892,121.426979",
+            "location": "樹林區保安街一段32號(濟安宮前)",
+            "tel": "02-28971600",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 24.993892,
+            "gps_long": 121.426979,
+            "service": {
+                "10d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                },
+                "16d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "巡迴",
+            "name": "淡水區巡迴捐血車",
+            "gps": "25.178285,121.44436",
+            "location": "淡水區中山北路一段160號(水碓派出所前)",
+            "tel": "02-28971600",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.178285,
+            "gps_long": 121.44436,
+            "service": {
+                "19d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "巡迴",
+            "name": "蘆洲區巡迴捐血車",
+            "gps": "25.0848,121.4738",
+            "location": "蘆洲區三民路95號(區公所前)",
+            "tel": "02-28971600",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.0848,
+            "gps_long": 121.4738,
+            "service": {
+                "23d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "巡迴",
+            "name": "林口區巡迴捐血車",
+            "gps": "25.0793,121.397",
+            "location": "林口區粉寮路一段與工六路口交叉口",
+            "tel": "02-28971600",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.0793,
+            "gps_long": 121.397,
+            "service": {
+                "26d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "巡迴",
+            "name": "泰山區巡迴捐血車",
+            "gps": "25.0506,121.4277",
+            "location": "泰山區明志路二段139號文程廣場",
+            "tel": "02-28971600",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.0506,
+            "gps_long": 121.4277,
+            "service": {
+                "27d": {
+                    "times": "0930-1630",
+                    "start": 570,
+                    "end": 990
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "固定",
+            "name": "板橋捐血站",
+            "gps": "25.009137,121.461986",
+            "location": "板橋區中山路一段50巷36號2樓之4",
+            "tel": "02-29524117",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 25.009137,
+            "gps_long": 121.461986,
+            "service": {
+                "e": {
+                    "times": "0800-1800",
+                    "start": 480,
+                    "end": 1080
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "固定",
+            "name": "三重捐血室",
+            "gps": "25.06028,121.491842",
+            "location": "三重區重新路三段81號3樓",
+            "tel": "02-29862780",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 25.06028,
+            "gps_long": 121.491842,
+            "service": {
+                "1n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "2n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "3n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "4n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "5n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "0n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "固定",
+            "name": "汐止捐血室",
+            "gps": "25.063612,121.656345",
+            "location": "汐止區新台五路一段207號11樓B室(汐止農會樓上)",
+            "tel": "02-26428013",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 25.063612,
+            "gps_long": 121.656345,
+            "service": {
+                "e": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "固定",
+            "name": "新店捐血室",
+            "gps": "24.982923,121.537635",
+            "location": "新店區民權路95號6樓之2(江陵金融大樓大眾銀行樓上)",
+            "tel": "02-22188867",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 24.982923,
+            "gps_long": 121.537635,
+            "service": {
+                "e": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "固定",
+            "name": "新莊號捐血車",
+            "gps": "25.0437,121.4525",
+            "location": "新莊區中華路一段+復興路一段交叉口(新莊綜合運動場旁)",
+            "tel": "02-89941488",
+            "holiday": null,
+            "sun": null,
+            "sat": null,
+            "apheresis": null,
+            "gps_lat": 25.0437,
+            "gps_long": 121.4525,
+            "service": {
+                "1n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "2n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "3n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "4n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "6n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                },
+                "0n": {
+                    "times": "1000-1800",
+                    "start": 600,
+                    "end": 1080
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "固定",
+            "name": "中和號捐血車",
+            "gps": "25.0009,121.5119",
+            "location": "中和區中安街圖書館旁(823公園內)",
+            "tel": "02-29299437",
+            "holiday": "0",
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 25.0009,
+            "gps_long": 121.5119,
+            "service": {
+                "1n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "2n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "3n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "4n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "5n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                }
+            }
+        },
+        {
+            "city": "新北市",
+            "mode": "固定",
+            "name": "土城號捐血車",
+            "gps": "24.985,121.4533",
+            "location": "土城區裕民路171巷裕民廣場內",
+            "tel": "02-82625140",
+            "holiday": "0",
+            "sun": null,
+            "sat": null,
+            "apheresis": "1",
+            "gps_lat": 24.985,
+            "gps_long": 121.4533,
+            "service": {
+                "1n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "2n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "3n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "4n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                },
+                "5n": {
+                    "times": "0900-1700",
+                    "start": 540,
+                    "end": 1020
+                }
+            }
+        }
+    ]
+}
